@@ -82,6 +82,3 @@ public class assignment_6 {
         }
     }
 }
-
-
-//LinkedList implementation
